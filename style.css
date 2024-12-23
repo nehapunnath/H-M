@@ -12,7 +12,7 @@ body{
     padding-top:15px;
     padding-left:10px; 
     font-weight: 400;
-    font-size:1.2em
+    font-size:0.8125rem
 
 }
 .header1 a{
@@ -20,13 +20,12 @@ body{
     color:black;
 }
 .h1 img{
-    margin-right: 650px;
+    margin-right: 390px;
     margin-top:20px;
 }
 #h2{
     font-weight: 400;
-    font-size:1.2em
-    
+    font-size:0.8110rem
 }
 .nav-item.dropdown .dropdown-toggle::after {
     display: none;
@@ -45,24 +44,24 @@ body{
     text-align: center;
 }
 #he2{
-    margin-left:770px;
+    margin-left:550px;
     color:black;
     font-weight: 00;
-    font-size:1.2em
+    font-size:0.9999rem
 }
 #g1{
    padding-top : 20px;
 }
 .sec1{
     font-weight: 400;
-    font-size:1em;
+    font-size:0.8125rem
 }
 .box1{
     border: 1px solid rgb(207, 53, 53);
     background-color: rgb(207, 53, 53);
     height:500px;
     width:750px;
-    margin-left:600px;
+    margin-left:320px;
 }
 .con{
     text-align: center;
@@ -75,7 +74,7 @@ body{
     height:100px;
     width:750px;
     margin-top:20px;
-    margin-left:610px;
+    margin-left:330px;
 
 }
 .sec1 button{
@@ -143,7 +142,7 @@ body{
 
 }
 .dropdown-toggle::after {
-    content: none; 
+    content: none; /
 }
 
 .custom-search {
@@ -167,35 +166,35 @@ body{
 }
 .img{
     margin-top:20px;
-    margin-left:600px;
+    margin-left:320px;
     height:100px;
     width:750px;
 }
 .p1 button{
     margin-top: 150px;
-    margin-left:630px;
+    margin-left:340px;
     border-radius: 0;
 }
 .img1{
     margin-top:230px;
-    margin-left:600px;
+    margin-left:320px;
     height:100px;
     width:750px;
 }
 .p2 button{
     margin-top: 320px;
-    margin-left:630px;
+    margin-left:340px;
     border-radius: 0;
 }
 .img2{
     margin-top:50px;
-    margin-left:600px;
+    margin-left:320px;
     height:100px;
     width:750px;
 }
 .p3 button{
     margin-top: 330px;
-    margin-left:910px;
+    margin-left:630px;
     border-radius: 0;
 }
 .ft{
@@ -215,6 +214,7 @@ body{
 .ft .nav-item {
     white-space: nowrap;
   }
+
 
 
   
