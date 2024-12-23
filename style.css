@@ -20,12 +20,13 @@ body{
     color:black;
 }
 .h1 img{
-    margin-right: 390px;
+    margin-right: 650px;
     margin-top:20px;
 }
 #h2{
     font-weight: 400;
-    font-size:0.8110rem
+    font-size:1.2em
+    
 }
 .nav-item.dropdown .dropdown-toggle::after {
     display: none;
@@ -44,17 +45,17 @@ body{
     text-align: center;
 }
 #he2{
-    margin-left:600px;
+    margin-left:770px;
     color:black;
     font-weight: 00;
-    font-size:0.9999rem
+    font-size:1.2em
 }
 #g1{
    padding-top : 20px;
 }
 .sec1{
     font-weight: 400;
-    font-size:0.8125rem
+    font-size:1em;
 }
 .box1{
     border: 1px solid rgb(207, 53, 53);
