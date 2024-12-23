@@ -12,7 +12,7 @@ body{
     padding-top:15px;
     padding-left:10px; 
     font-weight: 400;
-    font-size:0.8125rem
+    font-size:1.2em
 
 }
 .header1 a{
@@ -61,7 +61,7 @@ body{
     background-color: rgb(207, 53, 53);
     height:500px;
     width:750px;
-    margin-left:320px;
+    margin-left:400px;
 }
 .con{
     text-align: center;
@@ -74,7 +74,7 @@ body{
     height:100px;
     width:750px;
     margin-top:20px;
-    margin-left:330px;
+    margin-left:400px;
 
 }
 .sec1 button{
@@ -142,7 +142,7 @@ body{
 
 }
 .dropdown-toggle::after {
-    content: none; /
+    content: none; 
 }
 
 .custom-search {
@@ -166,35 +166,35 @@ body{
 }
 .img{
     margin-top:20px;
-    margin-left:320px;
+    margin-left:400px;
     height:100px;
     width:750px;
 }
 .p1 button{
     margin-top: 150px;
-    margin-left:340px;
+    margin-left:430px;
     border-radius: 0;
 }
 .img1{
     margin-top:230px;
-    margin-left:320px;
+    margin-left:400px;
     height:100px;
     width:750px;
 }
 .p2 button{
     margin-top: 320px;
-    margin-left:340px;
+    margin-left:430px;
     border-radius: 0;
 }
 .img2{
     margin-top:50px;
-    margin-left:320px;
+    margin-left:400px;
     height:100px;
     width:750px;
 }
 .p3 button{
     margin-top: 330px;
-    margin-left:630px;
+    margin-left:730px;
     border-radius: 0;
 }
 .ft{
